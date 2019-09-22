@@ -1,3 +1,3 @@
-describe("test", () => {
+describe("normal", () => {
   it("should work", () => {});
 });

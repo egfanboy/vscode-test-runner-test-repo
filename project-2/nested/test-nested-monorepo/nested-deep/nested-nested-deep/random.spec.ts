@@ -1,0 +1,3 @@
+describe("random", () => {
+  it("work", () => {});
+});
